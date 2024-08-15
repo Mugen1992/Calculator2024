@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MaxFunkCalculator2024/1.0.0": {
+        "runtime": {
+          "MaxFunkCalculator2024.dll": {}
+        },
+        "resources": {
+          "agq/MaxFunkCalculator2024.resources.dll": {
+            "locale": "agq"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxFunkCalculator2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
